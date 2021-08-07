@@ -1,0 +1,101 @@
+{
+    "initialState": {
+        "skills": [
+            {
+                "id": 1,
+                "title": "JavaScript",
+                "img": "https://i.ibb.co/MRQd6jb/javascript-2038874-1720087.png"
+            },
+            {
+                "id": 2,
+                "title": "HTML",
+                "img": "https://i.ibb.co/Vq7CFt6/html5-logo-31813.png"
+            },
+            {
+                "id": 3,
+                "title": "CSS",
+                "img": "https://i.ibb.co/YcP48V2/CSS-LOGO.png"
+            },
+            {
+                "id": 4,
+                "title": "SASS",
+                "img": "https://i.ibb.co/LkhQDWJ/sass-logo.png"
+            },
+            {
+                "id": 5,
+                "title": "Bootstrap",
+                "img": "https://i.ibb.co/3B8yvpW/bootstrap-logo.png"
+            },
+            {
+                "id": 6,
+                "title": "Styled Components ",
+                "img": "https://i.ibb.co/XkS3zcR/styledcomponents.png"
+            },
+            {
+                "id": 7,
+                "title": "Redux",
+                "img": "https://i.ibb.co/bPRZQCR/redux-logo.png"
+            },
+            {
+                "id": 8,
+                "title": "Wordpress",
+                "img": "https://i.ibb.co/vmff7CD/wordpress-logo.png"
+            },
+            {
+                "id": 9,
+                "title": "React Js",
+                "img": "https://i.ibb.co/GV3C9fp/react.png"
+            }
+        ],
+    "Projects": [
+        {
+            "id": 1,
+            "title": "Platzi Conf",
+            "description": "This is a clothes store made using React Js and React Hooks. I used Paypal API for the payments and Google Maps API so you can see where tha pack will be delivered",
+            "img": "https://i.ibb.co/4K8QF67/Platiz-Conf-1.png",
+            "link": "https://platzi-conf-store-by-sebass.netlify.app/",
+            "github": "https://github.com/sebassvg/Platzi-store-conf"
+        },
+        {
+            "id": 2,
+            "title": "Disney Plus Clone",
+            "description": "This is a Disney Plus Clone, that I made with React, React Router, and Styled Component. You can Log in with your Google account. All the Images, titles, and descriptions the app is getting from an API that I made",
+            "img": "https://i.ibb.co/2dPHZ28/Disney-1.png",
+            "link": "https://disneyplus-clone-5a52e.web.app/",
+            "github": "https://github.com/sebassvg/Disney-Plus-Clone"
+        },
+        {
+            "id": 3,
+            "title": "Movie App",
+            "description": "This is a Movie App, that I made with React, React Router, and CSS. You can see all the movies, TV series that exist, their score and more! I used an API to get all the information, photos, descriptions, etc",
+            "img": "https://i.ibb.co/wN2RLnz/Movie-2.png",
+            "link": "https://movie-app-8bbcf.web.app/",
+            "github": "https://github.com/sebassvg/MovieApp"
+        },
+        {
+            "id": 4,
+            "title": "Beverage Recipe Finder",
+            "description": "This is a website where you can look for any kind of drink and you can see the ingredients",
+            "img": "https://i.ibb.co/0CKh8C9/Bebidas-2.png",
+            "link": "https://buscador-bebidas-by-sebassvg.netlify.app/",
+            "github": "https://github.com/sebassvg/Buscador-bebidas"
+        },
+        {
+            "id": 5,
+            "title": "Crypto Coins",
+            "description": "On this website, you can check the different prices of the top crypto coins in real time",
+            "img": "https://i.ibb.co/WfmRJGS/Cripto-1.png",
+            "link": "https://buscador-bebidas-by-sebassvg.netlify.app/",
+            "github": "https://github.com/sebassvg/Buscador-bebidas"
+        },
+        {
+            "id": 6,
+            "title": "Weather App",
+            "description": "This app tells you the weather in every city in the world. I used an API and the background changes depending on the weather of the city selected.",
+            "img": "https://i.ibb.co/51fZmds/Weather-1.png",
+            "link": "",
+            "github": "This app tells you the weather in every city in the world. I used an API and the background changes depending on the weather of the city selected."
+        }
+    ]
+    }
+}
